@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="bar_height">100dp</dimen>
+    <dimen name="fab_size" >45dp</dimen>
+    <item name="full_width" type="dimen">100%</item>
+    <item name="full_height" type="dimen">100%</item>
+</resources>
